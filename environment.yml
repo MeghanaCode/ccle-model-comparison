@@ -1,0 +1,14 @@
+name: ccle-ml
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+prefix: /opt/anaconda3/envs/ccle-ml
