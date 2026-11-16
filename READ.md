@@ -1,9 +1,9 @@
 # CCLE model comparison
 
-[Aplying ML models to CCLE data to predict cancer lines with expression data]
+Aplying ML models to CCLE data to predict cancer lines with expression data
 
 ## Question
-[What are you predicting, from what, and why does it matter?]
+--
 
 ## Data
 - Source: DepMap Public 26Q3 (https://depmap.org), cancer cell line data.
